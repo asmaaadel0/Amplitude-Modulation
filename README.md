@@ -27,10 +27,9 @@
     <br />
     <sub><b>Asmaa Adel</b></sub></a>
     </td>
-
     <td align="center">
     <a href="https://github.com/zeinabmoawad" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/92188433?v=4" width="150px;" alt="Samaa Hazem"/>
+    <img src="https://avatars.githubusercontent.com/u/92188433?v=4" width="150px;" alt="Zeinab moawad"/>
     <br />
     <sub><b>Zeinab Moawad</b></sub></a>
     </td>
