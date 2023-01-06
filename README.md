@@ -4,7 +4,7 @@
 - [Input signals](#input)
 - [Frequency domain](#freq)
 - [Modulated signal](#modulated-signal)
-- [Deodulated signal](#demodulated-signal)
+- [Demodulated signal](#demodulated-signal)
 - [Contributors](#Contributors)
 
 
@@ -21,19 +21,13 @@
   </tr>
   <tr>
     <td>
-      
       ![image](https://user-images.githubusercontent.com/88618793/210906353-d2033c6a-19d2-47b9-baec-c86171ee3e29.png)
-
     </td>
     <td>
-      
       ![image](https://user-images.githubusercontent.com/88618793/210906767-0a779312-2094-4eb7-b619-55ba7500e9b0.png)
-
     </td>
     <td>
-      
       ![image](https://user-images.githubusercontent.com/88618793/210906797-6fad20b7-1c7e-469e-b479-5a80e64d748e.png)
-
     </td>
   </tr>
 </table>
