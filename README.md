@@ -5,7 +5,7 @@
 - [Frequency domain](#freq)
 - [Modulated signal](#modulated-signal)
 - [Demodulated signal](#demodulated-signal)
-- [Contributors](#Contributors)
+- [Contributors](#contributors)
 
 
 ## About <a name = "about"></a>
@@ -77,7 +77,7 @@ Inorder to demodulate the recieved signal at the reciever we use a synchronous c
 ![image](https://user-images.githubusercontent.com/88618793/210907218-cdd05b81-ff9d-473b-8a3c-0e02e8bf4ac1.png)
 
 
-## Contributors <a name = "Contributors"></a>
+## Contributors <a name = "contributors"></a>
 
 <table>
   <tr>
