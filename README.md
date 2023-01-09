@@ -8,6 +8,7 @@
 - [Contributors](#contributors)
 
 
+
 ## About <a name = "about"></a>
 > this is a project to modulate three speech signals using the following scheme: `𝑠(𝑡) = 𝑥1(𝑡) cos 𝜔1𝑡 + 𝑥2(𝑡) cos 𝜔2𝑡 + 𝑥3(𝑡) sin 𝜔2𝑡`, and then perform synchronous demodulation,it simulates multiplexing three speech signals on two carriers with two different frequencies where two of these signals are modulated using quadrature amplitude modulation, then we demodulate the three signals and restore them using synchronous carrier demodulation, and phase shifts.
 
